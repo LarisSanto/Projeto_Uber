@@ -4,7 +4,7 @@
 </p> 
 
 
-# EM ANDAMENTO - Projeto de Análise de Dados da Uber 🚖📊  
+# Projeto de Análise de Dados da Uber 🚖📊  
 Este projeto tem como objetivo analisar um conjunto de dados da **Uber (Kaggle, 2024)** com **150.000 registros**, utilizando **SQL Server** para explorar padrões de corridas, cancelamentos, formas de pagamento e satisfação de clientes/motoristas.
 
 
