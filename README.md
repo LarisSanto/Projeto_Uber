@@ -71,7 +71,6 @@ Este projeto tem como objetivo analisar um conjunto de dados da **Uber (Kaggle, 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5b505778-a0fb-4462-82bc-3923aeeabc07" />
 
 
----
 
 ### 👩🏽 Sobre Mim
 
