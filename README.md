@@ -51,24 +51,13 @@ Este projeto tem como objetivo analisar um conjunto de dados da **Uber (Kaggle, 
 
 - SQL Server Management Studio (SSMS)
 - Kaggle (dataset)
-- Power BI (dashboard)
+- Tableau (dashboard)
 - GitHub (documentação e versionamento)
 
 
-**Link do Painel:**
+**Dashboard(Tableau)**
 
- Visite o Dashboard Interativo Explore a versão online do dashboard para interagir com os filtros e visualizar os insights: 
-
-???
-
-**Dashboard(Power BI)**
-
-???
-
-
-**Imagens**
-
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5b505778-a0fb-4462-82bc-3923aeeabc07" />
+<img width="1100" height="800" alt="image" src="https://github.com/user-attachments/assets/5ba2ca12-c07c-43ae-b375-074a102829cf" />
 
 
 
