@@ -8,7 +8,7 @@
 Este projeto tem como objetivo analisar um conjunto de dados da **Uber (Kaggle, 2024)** com **150.000 registros**, utilizando **SQL Server** para explorar padrões de corridas, cancelamentos, formas de pagamento e satisfação de clientes/motoristas.
 
 
-**📂 Sobre o Dataset** 
+**Sobre o Dataset** 
 
 - Fonte: [Kaggle - Uber Ride Analytics Dashboard](https://www.kaggle.com/)  
 - Registros: 150.000  
@@ -23,7 +23,7 @@ Este projeto tem como objetivo analisar um conjunto de dados da **Uber (Kaggle, 
   - `Driver_Ratings`, `Customer_Rating` → Avaliações  
 
 
-**🛠️ Estrutura do Projeto**  
+**Estrutura do Projeto**  
 
 - Criação do Banco de Dados
   - CREATE DATABASE Projeto_Uber;
@@ -40,14 +40,14 @@ Este projeto tem como objetivo analisar um conjunto de dados da **Uber (Kaggle, 
   - Importado e criado via Power BI.
 
 
-**📊 Conclusões**
+**Conclusões**
 
 - UPI é o método de pagamento preferido.
 - A maioria das corridas foi concluída, mas há registros relevantes de cancelamentos e incompletas.
 - Cancelamentos de motoristas ocorrem principalmente por problemas no veículo.
 - Clientes tendem a avaliar motoristas melhor do que motoristas avaliam clientes.
 
-**⚙️ Tecnologias Utilizadas**
+**Tecnologias Utilizadas**
 
 - SQL Server Management Studio (SSMS)
 - Kaggle (dataset)
